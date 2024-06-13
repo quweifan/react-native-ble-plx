@@ -6,7 +6,9 @@ import { Service } from './Service'
 import { Characteristic } from './Characteristic'
 import { Descriptor } from './Descriptor'
 import { State, LogLevel, type BleErrorCodeMessageMapping, ConnectionPriority } from './TypeDefinition'
-import { BleModule, EventEmitter } from './BleModule'
+// import { BleModule, EventEmitter } from './BleModule'
+import { EventEmitter } from './BleModule'
+import { BleModule } from './NativeBlePlx'
 import {
   parseBleError,
   BleError,

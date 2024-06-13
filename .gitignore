@@ -61,3 +61,11 @@ buck-out/
 *.jsbundle
 /lib
 /test_project
+android/gradle/wrapper/gradle-wrapper.jar
+android/gradle/wrapper/gradle-wrapper.properties
+babel.config.js
+package-lock.json
+package-lock.json
+package-lock.json
+package-lock.json
+react-native-oh-tpl-react-native-ble-plx-3.2.0-0.0.1.tgz
